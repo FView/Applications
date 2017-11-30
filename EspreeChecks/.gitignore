@@ -8,7 +8,7 @@ bin-release/
 # Other files and folders
 .settings/
 
-# Executables
+# Executables I want to edit this line. May I?
 *.swf
 *.air
 *.ipa
